@@ -61,7 +61,7 @@
 - Compare los valores de la tabla 2.1 y realice sus conclusiones.
 
 
-- Circuito con Simulador (Proteus)
+- **Circuito con Simulador (Proteus)**
 
 ![WhatsApp Image 2021-11-21 at 20 30 42](https://user-images.githubusercontent.com/93739242/142937350-ad0305e2-6e8e-4e84-871c-6e405568f2c6.jpeg)
 
@@ -70,6 +70,8 @@
 
 
 <h3>RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR</h3>
+
+**Tabla 2.1.** Resultados obtenidos para el circuito de la figura 2.1.
 
 
 |  **MALLA**  |   **Resultados Analíticos**   |  **Resultados Experimentales**   |    **Resultados Simulados**    |
@@ -112,6 +114,8 @@
 
 <h3>BIBLIOGRAFÍA</h3>
 
+Zapata, F. (2019, 1 noviembre). Análisis de mallas: conceptos, métodos, ejemplos. Lifeder. https://www.lifeder.com/analisis-de-mallas/
 
+Capítulo 21: Análisis de Mallas. (2019, 8 abril). Análisis de Circuitos En Ingeniería. https://analisisdecircuitos1.wordpress.com/parte-1-circuitos-resistivos-cap-21-a-30-en-construccion/capitulo-21-analisis-de-mallas/
 
 
