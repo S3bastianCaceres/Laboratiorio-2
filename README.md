@@ -42,7 +42,7 @@
 
 |**Cantidad**|**Material o Equipo**|
 |------------|---------------------|
-| 1          | Fuente de Voltaje de C.D.|
+|1| Fuente de Voltaje de C.D.|
 |1|Multímetro Digital|
 |1|Resistor 820 Ω|
 |1|Resitor 390 Ω|
@@ -50,6 +50,16 @@
 |1|Resistor 1.2 kΩ|
 |1|Resistor 2.2 kΩ|
 |1|Protoboard|
+
+
+- Implemente el circuito que se presenta en la figura 2.1.
+
+![image](https://user-images.githubusercontent.com/93739242/142938164-3deb6578-ef48-4b48-bca3-fe5ec1281e50.png)
+
+- Mida cada una de las corrientes de malla y anote los resultados en la tabla 2.1.
+- Simule en el software Multisim, Proteus, o cualquier otro simulador, el circuito de la figura 2.1, obteniendo los valores de las corrientes de malla. Anote los resultados en la tabla 2.1.
+- Compare los valores de la tabla 2.1 y realice sus conclusiones.
+
 
 - Circuito con Simulador (Proteus)
 
