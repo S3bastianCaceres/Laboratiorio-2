@@ -64,9 +64,9 @@
 
 |  **MALLA**  |   **Resultados Analíticos**   |  **Resultados Experimentales**   |    **Resultados Simulados**    |
 |------|-------|-----|-------|
-|       |    |       |       |
-|       |    |       |       |
-|       |    |       |       |
+|   1    |    |       |   11.5    |
+|    2   |    |       |    2.85   |
+|     3  |    |       |    0.49   |
 
 
 
