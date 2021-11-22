@@ -21,7 +21,7 @@
 <h3>MARCO TEÓRICO</h3>
 
 
-[![An-lis-de-mallas.png](https://i.postimg.cc/1zPVP2rc/An-lis-de-mallas.png)](https://postimg.cc/DSjwPCD8)
+[![An-lisis-de-mallas-1.png](https://i.postimg.cc/tJLwVhry/An-lisis-de-mallas-1.png)](https://postimg.cc/dZj4bTPS)
 
 
 
