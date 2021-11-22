@@ -9,7 +9,7 @@
 
 **Objetivos Especificos**
 
-
+- 
 
 
 
@@ -51,9 +51,9 @@
 |1|Resistor 2.2 kΩ|
 |1|Protoboard|
 
+- Circuito con Simulador (Proteus)
 
-
-
+![WhatsApp Image 2021-11-21 at 20 30 42](https://user-images.githubusercontent.com/93739242/142937350-ad0305e2-6e8e-4e84-871c-6e405568f2c6.jpeg)
 
 
 
