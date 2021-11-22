@@ -1,4 +1,4 @@
-# Laboratiorio-2
+# Laboratorio-2
  
 
 <h3>OBJETIVOS</h3>
