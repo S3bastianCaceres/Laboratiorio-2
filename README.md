@@ -76,9 +76,9 @@
 
 |  **MALLA**  |   **Resultados Analíticos**   |  **Resultados Experimentales**   |    **Resultados Simulados**    |
 |------|-------|-----|-------|
-|   1    | 11.4 mA   |       |   11.5 mA    |
-|    2   |  2.84 mA  |       |    2.85 mA  |
-|     3  |  0.488 mA  |       |    0.49 mA  |
+|   1    | 11.4 mA   | 11.5 mA      |   11.5 mA    |
+|    2   |  2.84 mA  |  2.85 mA     |    2.85 mA  |
+|     3  |  0.488 mA  | -488 uA      |    0.49 mA  |
 
 
 
