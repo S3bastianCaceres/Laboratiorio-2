@@ -65,7 +65,9 @@
 
 ![WhatsApp Image 2021-11-21 at 20 30 42](https://user-images.githubusercontent.com/93739242/142937350-ad0305e2-6e8e-4e84-871c-6e405568f2c6.jpeg)
 
+**Circuito con Tinkercad**
 
+![imagen](https://user-images.githubusercontent.com/93798427/142955532-cbe704a7-51d8-41df-a5f5-33ca47eee211.png)
 
 
 
