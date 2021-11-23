@@ -95,7 +95,6 @@
 
 <h3>VIDEO</h3>
 
-https://youtu.be/9komDyLEo3M
 
 
 
