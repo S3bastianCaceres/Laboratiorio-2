@@ -9,9 +9,9 @@
 
 **Objetivos Especificos**
 
-- 
+- Construir los circuitos tanto en Tinkercad como en Proteus de manera correcta, con la finalidad de obtener valores correctos en las mediciones de las corrientes presentes en el circuito.
 
-
+-Analizar la teoría, formulas y leyes que nos permita calcular las corrientes, esto mediante el análisis de mallas y finalmente obtener resultados que se procederán a comparar con los valores obtenidos en el simulador.
 
 
 
