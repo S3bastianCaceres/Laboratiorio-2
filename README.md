@@ -108,17 +108,13 @@
 
 <h3>CONCLUSIONES</h3>
 
+Mediante las herramientas para simular un circuito se encuentran valores de corriente presisos, comprobando asi que los circuitos estan bien construidos en los distintos simuladores.
 
+Los resultados presentes en la practica no varian por ser simuladores computacionales, una herramienta que no registra un gran porcentaje de error, ya que trabaja con elementos electronicos ideales.
 
+Gracias a la utilizacion de la ley de voltaje de kirchhof se pueden establecer ecuaciones lineales para hallar las corrientes que circulan en cada un de de las mallas.
 
-
-
-
-
-
-
-
-
+El análisis de malla facilita obtener datos que se requieren para resolver un circuito eléctrico,y van de la mano con la ley de voltajes de Kirchhof.
 
 <h3>BIBLIOGRAFÍA</h3>
 
