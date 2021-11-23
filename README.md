@@ -62,7 +62,7 @@
 
 **Cálculos**
 
-![imagen](https://user-images.githubusercontent.com/93798427/142961159-37ec1055-1152-4101-9cde-1c99f433a435.png)
+![imagen](https://user-images.githubusercontent.com/93798427/142966088-dc17be8a-62c8-4017-bbb9-707dc4a193bb.png)
 
 
 
